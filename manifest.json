@@ -1,0 +1,19 @@
+{
+  "name": "考研工作台 · 江南大学 学科语文",
+  "short_name": "考研台",
+  "description": "江南大学 学科教学（语文）045103 考研专用：倒数日、番茄钟、学习分析、复习计划、每日知识点与每日复盘。",
+  "lang": "zh-CN",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "display_override": ["standalone", "fullscreen", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#f6f4f1",
+  "theme_color": "#a8201a",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
